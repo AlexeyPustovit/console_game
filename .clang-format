@@ -1,0 +1,5 @@
+BasedOnStyle: Google
+IndentWidth: 4
+ColumnLimit: 90
+AllowShortCaseLabelsOnASingleLine: true
+AccessModifierOffset: -4
